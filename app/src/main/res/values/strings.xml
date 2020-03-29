@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Kanca</string>
+    <string name="home">Halaman Utama</string>
+    <string name="game">game</string>
+    <string name="community">Community</string>
+    <string name="profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_text">Halo Tini!</string>
+    <string name="hewan_dan_tumbuhan">Hewan dan Tumbuhan</string>
+    <string name="makhluk_hidup">Makhluk Hidup</string>
+    <string name="keluargaku">Keluargaku</string>
+    <string name="title_home">Halaman Utama</string>
+    <string name="title_history">Riwayat</string>
+    <string name="title_profile">Profil</string>
+    <string name="ciri_ciri_makhluk_hidup">Ciri-ciri Makhluk Hidup</string>
+    <string name="john">John Lennon</string>
+    <string name="hobi">Hobi</string>
+    <string name="baca">Membaca</string>
+    <string name="kelas">Kelas</string>
+    <string name="sd">3 SD</string>
+    <string name="progres">Progress</string>
+    <string name="persen">50%</string>
+    <string name="point">350 Points</string>
+    <string name="subtema">SUBTEMA 1</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="sayang_hewan">MENYAYANGI HEWAN DAN TUMBUHAN</string>
+    <string name="sub_progress">50%</string>
+    <string name="subtema_1">SUBTEMA 1</string>
+    <string name="subtema_2">SUBTEMA 2</string>
+    <string name="subtema_3">SUBTEMA 3</string>
+    <string name="subtema_topic_4">Menyayangi Makhluk Hidup</string>
+    <string name="pertumbuhan_perkembangan">Pertumbuhan dan Perkembangan Manusia</string>
+    <string name="pertumbuhan_hewan">Pertumbuhan Hewan</string>
+</resources>

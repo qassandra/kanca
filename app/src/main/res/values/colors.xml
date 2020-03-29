@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffca28</color>
+    <color name="colorPrimaryDark">#F3CC57</color>
+    <color name="colorAccent">#fffd61</color>
+    <color name="colorSecondary">#00e676</color>
+    <color name="colorSecondaryDark">#00b248</color>
+    <color name="bg_makhluk_hidup">#DC970EE1</color>
+    <color name="bg_hewan_tumbuhan">#BFF73A83</color>
+    <color name="benda_di_sekitarku">#C4FF9800</color>
+    <color name="keluargaku">#D84FAF4C</color>
+
+
+</resources>
